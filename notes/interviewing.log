@@ -1,0 +1,59 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  21 NOV 2013 13:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**interviewing.tex
+(./interviewing.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./interviewing.aux)
+\openout1 = `interviewing.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+ [1
+
+] (./interviewing.aux) ) 
+Here is how much of TeX's memory you used:
+ 223 strings out of 493938
+ 2369 string characters out of 6148857
+ 52899 words of memory out of 5000000
+ 3604 multiletter control sequences out of 15000+600000
+ 6983 words of font info for 25 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 23i,6n,17p,166b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on interviewing.pdf (1 page).
